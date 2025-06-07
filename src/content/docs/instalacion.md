@@ -57,7 +57,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-3. Accede a [http://51.120.11.157:8080](http://51.120.11.157:8080/swagger-ui/index.html ) para ver la documentación de la API.
+3. Accede a [http://51.120.11.157:8080/swagger-ui/index.html](http://51.120.11.157:8080/swagger-ui/index.html ) para ver la documentación de la API.
 
 ## 4.4. Instalación del Microservicio de chat (Node.js + Socket.IO)
 
