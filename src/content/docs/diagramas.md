@@ -163,7 +163,7 @@ Representa flujos internos como la autenticación, creación de publicaciones o 
 </div>
 
 
-## 6. Diagramas de Secuencia
+### 6. Diagramas de Secuencia
 
  Describe cómo interactúan los distintos componentes del sistema a lo largo del tiempo durante la ejecución de funcionalidades clave.
 
@@ -189,14 +189,14 @@ Representa flujos internos como la autenticación, creación de publicaciones o 
 
 
 
-### 6. Diagrama de Despliegue
+### 7. Diagrama de Despliegue
 Muestra cómo se distribuyen los diferentes elementos del sistema en el entorno de producción, incluyendo la infraestructura en la nube, el uso de contenedores Docker y la organización de servicios.
 
 > ![Despliegue](/DiagramaDespliegue.png)
 
 
 
-### 7. Casos de Prueba
+### 8. Casos de Prueba
 Recogen situaciones diseñadas para validar el correcto funcionamiento de la aplicación, abarcando funcionalidades críticas como la autenticación, las publicaciones, el sistema de mensajería y la gestión de incidencias.
 
 Se distinguen entre pruebas del front (codificadas como CPF) y pruebas del back (codificadas como CPB).
